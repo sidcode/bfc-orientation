@@ -1,0 +1,307 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>#MozMeet - Bon Voyage towards FOSS & Mozilla</title>
+
+		<meta name="description" content="Simple presentation about FOSS and Mozilla">
+		<meta name="author" content="Gauthamraj">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="css/reveal.min.css">
+		<link rel="stylesheet" href="css/theme/default.css" id="theme">
+
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+		<script>
+			document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section>
+					<h1>#MozMeet</h1>
+					<h3>Bon Voyage towards FOSS and Mozilla</h3>
+					<p>
+						<h6>Hosted by</h6>
+<small> <a href="https://reps.mozilla.org/u/gautha91"> Gauthamraj Elango</a> <br> <a href="https://reps.mozilla.org/u/iamjayakumars/">Jayakumar</a> <br> <a href="https://www.facebook.com/mohankumar.duraisamy1992">Mohankumar</a> </small>
+					</p>
+			<br>
+			<h5 style="color:red;">Date  : 19-01-2014 </h5>
+			<h5 style="color:red;">Venue : CSC Computer Institute , Perundurai </h5>
+				</section>
+
+				<section>
+					<h2>FOSS ? What's that ?</h2>
+					<p class="fragment">... Any Guesses ? ...</p>
+						<p class="fragment" style="color:red;">FOSS stands for Free and Open Source Software</p>
+						
+
+					<aside class="notes">
+						FOSS Notes
+					</aside>
+				</section>
+
+				<!-- Example of nested vertical slides -->
+				<section>
+					<section>
+						<h2>Why FOSS ?</h2>
+						<p class="fragment">
+
+							Free not in cost but the FREEdom to USE !
+							 
+						</p>
+						<p class="fragment">
+
+							Open in the sense of easy access to source code to everyone ! 
+							 
+						</p>
+						<p class="fragment" style="color:red;">
+							FOSS provides THREE ( 3 ) S's - <font color="blue">Serve , Study , Share !</font></p>
+						<a href="#" class="image navigate-down">
+							<img class="fragment" width="400" height="300" src="http://abc123pics.com/images/kulor_site.jpg" alt="Foss">
+						</a>
+						<br>
+
+					</section>
+					<section>
+						<h2>Serve</h2>
+						<p class="fragment">Provide Full Freedom to use the software to meet the requirements</p>
+						<a class="fragment" href="#">
+							<img width="400" height="326" src="http://penguinpetes.com/images/FOSS_is_freedom.jpg" alt="Unicorn">
+						</a>
+					</section>
+					<section>
+						<h2>Study</h2>
+						<p class="fragment">Full freedom to Study "How the Software is Developed" and to Modify it</p>
+						<a class="fragment" href="#">
+							<img width="400" height="326" src="http://pearlrichards.files.wordpress.com/2010/12/open-source-vs-free-software-tim-oreilly-richard-stallman-485.jpg" alt="Unicorn">
+						</a>
+					</section>
+					<section>
+						<h2>Share</h2>
+						<p class="fragment">Freedom to redistribute the original and modified versions of the software</p>
+						<a href="#/2" class="image" >
+							<img class="fragment" width="400" height="326" src="http://www.rogue-state.net/wp-content/uploads/2013/03/PowerUsers.jpg" alt="" style="-webkit-transform: rotate(180deg);">
+						</a>
+					</section>
+				</section>
+
+				<section>
+					<h2>Who makes FOSS ?</h2>
+					
+					<ul>
+						<li class="fragment">Multiple Users as Co-Developers for a collaborative effort</li>
+						<li class="fragment">Users share their Functional and Technical Knowledge</li>
+						<li class="fragment">Bugs are kept open and visible</li>
+						<li class="fragment">Easy and Fast bug fixing</li>
+					</ul>
+						
+				</section>
+
+				<section>
+					<h2>What can FOSS do ?</h2>
+					<ul>
+						<li class="fragment">Can reuse,modify,build and integrate software based on the system available</li>
+						<li class="fragment">Can customize and modify the software according to our needs</li>
+						<li class="fragment">Hence , save a lot of money and give competitive advantage to the organisation</li>
+						
+					</ul>
+				</section>
+
+				<section>
+					<h1>MOZILLA</h1>
+					<p class="fragment" style="color:red;">Building and Protecting Web For People !</p>
+				</section>
+
+				<section>
+					<h2>Mozilla ? What's that ?</h2>
+					<p class="fragment"> I can hear you saying-" I use it , Mozilla Firefox Browser " ! So , you mean this ?</p>
+					<img class="fragment" src="https://mozorg.cdn.mozilla.net/media/img/contribute/firefox.png?2013-06" height="100" width="100">
+					<p class="fragment"> If Yes , What's the logo below ?</p>
+					<img class="fragment" src="https://mozorg.cdn.mozilla.net/media/img/contribute/dinohead.png" height="100" width="100">
+						
+					<p class="fragment" style="color:red;"> To clear up , Mozilla is global community that makes the browser called Firefox !</p>
+				</section>
+
+				<section>
+					<h2>Mozilla a Global Community !</h2>
+					<ul>
+						<li>Community of Volunteers and like-minded people</li>
+						<li>Works to protect and shape the web even better</li>
+						<li>Believes Web is the worlds biggest public resource and an assest of people</li>
+						<li>Aiming for an Open Web for OUR goodwill </li>
+					</ul>
+				</section>
+				<section>
+					<h2>More About Mozilla ! </h2>
+					<ul>
+						<li class="fragment">Mozilla Foundation is a Non-Profit organization that supports Opensource Mozilla Projects</li>
+						<li class="fragment">Mozilla Foundation apart from being a global community , has it's own subsidiary  </li>
+						<li class="fragment">Mozilla Corporation (MoCo) which is taxable</li>
+						<li class="fragment" style="color:red;"> Mozilla mission is to promote Openness , Innovation and Opportunity on the web (i.e) Open Web </li>
+					</ul>
+				</section>
+
+				<section>
+					<h2> Open Web ? What's that ? </h2>
+					<p class="fragment"> Do you think we have complete control over today's Internet ? </p>
+					<img class="fragment roll-in" src="http://commonspace.files.wordpress.com/2010/06/open-web-1-of-1.jpg?w=480">
+				</section>
+				<section>
+					<h2> How to make the WEB open ? </h2>
+					<img class="fragment" src="https://developer.mozilla.org/@api/deki/files/275/=Moz_ffx_openStandards_264x198.jpg">
+					<p class="fragment"> How can I help ? I am a newbie ! </p>
+					<p class="fragment"> Understand "How the Web Works" - <font color="red">Become Web Literate</font></p>
+					<img class="fragment" src="http://commonspace.files.wordpress.com/2011/10/2011-10-05-05-49-08.jpg?w=300&h=200"> 
+					
+				</section>
+
+				<section>
+					<h2> Web Literate ? How can I be ? </h2>
+					<img class="fragment" src="http://openmatt.org/wp-content/uploads/2012/05/Mozilla-Webmaker-logo.png" width=200 height=100>
+					<ul>
+					<li class="fragment"> Webmaker aims to help you MAKE something amazing with the web </li>
+					<li class="fragment"> Inturn , you will move from being a USER into MAKER of the web</li>
+					<li class="fragment"> As a Maker , you understand and control the web</li>
+					<li class="fragment" style="color:red;"> Webmaker makes you to MAKE things and makes you Web Literate </li>
+					
+				</section>
+
+				<section>
+					<h2> Firefox Products</h2>
+					<ol>					
+					<li class="fragment"> Desktop - <font color="red"> Free and Open Source Browser for Desktop </font></li>
+					<li class="fragment"> Android - <font color="red"> Fast , Smart and Safe choice for Android browsing</font> </li>
+					<li class="fragment"> OS - <font color="red"> An Open Source Operating System for Mobile devices</font></li>
+					<li class="fragment"> Market Place - <font color="red"> A Creation and Distribution platform for apps</font></li>
+					</ol>
+					
+				</section>
+				
+				<section>
+					<h2> Mozilla Products</h2>
+					<ol>					
+					<li class="fragment"> Persona - <font color="red"> A Better and Simple way to Sign - in </font></li>
+					<li class="fragment"> Webmaker - <font color="red"> Make Something Amazing with the Web </font></li>
+					<li class="fragment"> Open Badges - <font color="red"> A New Standard to recognize and Verify learning</font></li>
+					<li class="fragment"> Mozilla Labs - <font color="red"> New ways to explore , experiment and innovate</font></li>
+					<li class="fragment"> WebFwd - <font color="red"> Community Driven Innovation accelarator program</font></li>
+					<li class="fragment"> Thunderbird - <font color="red"> Safe , fast and easy e-mail</font></li>
+					<li class="fragment"> Seamonkey - <font color="red"> All in one suite</font></li>
+					</ol>
+					
+				</section>
+
+				<section>
+					<h2> Developer Products</h2>
+					<ol>					
+					<li class="fragment"> Bugzilla - <font color="red"> Bug tracking system</font> </li>
+					<li class="fragment"> Firebug - <font color="red"> Inspect , analyze and debug </font></li>
+					<li class="fragment"> XUL runner - <font color="red"> An environment for running XUL based applications</font></li>
+					<li class="fragment"> Gecko - <font color="red"> Layout Engine</font></li>
+					<li class="fragment"> Firefox API's - <font color="red"> Foundation for Firefox API's</font></li>
+					</ol>
+					
+				</section>
+	
+				<section>
+					<h1> How to Get Involved ? </h1>
+					<h4 class="fragment highlight-red"> The success of Mozilla mission depends on participation from people like US </h4>
+					<p class="fragment"> Find an opportunity that interest you and start contributing ! </p>
+					<img class="fragment" src="http://2.bp.blogspot.com/-R6jdn4DkalU/TaW0usY05xI/AAAAAAAAAAg/zfUCoU8NsIE/s320/best-business-opportunities.jpg" width=200 height=300> 					
+					
+				</section>
+
+				<section>
+					<h2> Areas to Contribute </h2>
+					<ol>					
+					<li class="fragment"> Helping Users - <font color="red"> SuMo</font> </li>
+					<li class="fragment"> Quality Assurance - <font color="red"> way to understand code and tools </font></li>
+					<li class="fragment"> Coding - <font color="red"> Add new features </font></li>
+					<li class="fragment"> Spread the Word - <font color="red"> Spread about Mozilla's Mission and Open Web</font></li>
+					<li class="fragment"> Localization - <font color="red"> Make Mozilla projects available in your locale</font></li>
+					<li class="fragment"> Addons - <font color="red"> Extend functionality of Firefox browser</font></li>
+					<li class="fragment"> Localization - <font color="red"> Make Mozilla projects available in your locale</font></li>
+					<li class="fragment"> Visual Design - <font color="red"> Design to inspire people</font></li>
+					<li class="fragment"> Documentation - <font color="red"> create , modify and translate materials</font></li>
+					<li class="fragment"> Education - <font color="red"> Teach others about " How the Web Works"</font></li>
+					</ol>
+					
+				</section>
+
+				
+
+				<section>
+					<h2>Important Links</h2>
+					<ul>
+						<li><a href="https://www.mozilla.org/en-US/mission/">Mozilla Mission</a></li>
+						<li><a href="https://www.mozilla.org/en-US/contribute/">How to Get Involved ?</a></li>
+						<li><a href="https://wiki.mozilla.org/StudentAmbassadors">Firefox Student Ambassador</a></li>
+						<li><a href="https://mozillaindia.org">Mozilla India</a></li>
+						<li><a href="https://www.facebook.com/gauthamraj.elango">Friend Gauthamraj on Facebook</a></li>
+						<li><a href="http://twitter.com/@GauthRaj">Follow Gauthamraj on Twitter</a></li>
+					</ul>
+				</section>
+
+				<section>
+					<h1>Need help ?</h1>
+					<h5>Contact</h5>
+					<h6 class="fragment highlight-red">Gauthamraj Elango - raj@mozraj.com / @GauthRaj</h6>
+					<p> Thank You ! </p> 
+				</section>
+
+			</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: 'plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
